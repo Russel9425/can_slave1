@@ -1,3 +1,0 @@
-(1)cd z_matlab_file
-(2)open simulink_test.slx
-(3)enjoy it!
